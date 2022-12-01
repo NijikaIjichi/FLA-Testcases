@@ -1,5 +1,7 @@
 # 看孤独摇滚喵，看孤独摇滚谢谢喵
 
+![nijika](./nijika.gif)
+
 虹夏小天使给你送图灵机测试样例啦，快说谢谢虹夏
 
 用法：`python3 test.py <turing>`
