@@ -28,7 +28,7 @@ def color(name, text):
   return text
 
 def run(turing, file, input):
-  return subprocess.run([turing, file, input, '-v'], 
+  return subprocess.run([turing, '-v', file, input], 
                         stdout=subprocess.PIPE, 
                         stderr=subprocess.PIPE, text=True, encoding="utf-8")
 
